@@ -1,0 +1,29 @@
+User-agent: *
+Allow: /
+Disallow: /*?*utm_
+
+User-agent: Yandex
+Allow: /
+Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term&yclid&fbclid&gclid /
+
+# Генеративные поисковики и AI-ассистенты (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-SearchBot
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: YandexAdditional
+Allow: /
+User-agent: YandexAdditionalBot
+Allow: /
+
+Sitemap: https://rostovtsev-realty.ru/sitemap.xml

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://rostovtsev-realty.ru/</loc>
+    <lastmod>2026-11-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://rostovtsev-realty.ru/assets/img/ivan-rostovtsev-rieltor-yoshkar-ola-1024.jpg</image:loc><image:title>Иван Ростовцев — риелтор в Йошкар-Оле</image:title></image:image>
+    <image:image><image:loc>https://rostovtsev-realty.ru/assets/img/samolet-plus-top-1-kubki-900.jpg</image:loc><image:title>ТОП-1 по объёму продаж, Самолёт Плюс, 1 квартал 2026</image:title></image:image>
+  </url>
+  <url>
+    <loc>https://rostovtsev-realty.ru/llms.txt</loc>
+    <lastmod>2026-11-04</lastmod>
+    <priority>0.3</priority>
+  </url>
+</urlset>
